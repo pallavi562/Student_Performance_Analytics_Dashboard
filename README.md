@@ -27,8 +27,8 @@ This project focuses on analyzing and visualizing student performance data to id
 ### Visualization Example 1
 ![Figure_3](https://github.com/user-attachments/assets/aa7b1dfa-7df9-461f-8434-ef6b1966a26c)
 
-### Visualization Example 2
-![Figure_2](https://github.com/user-attachments/assets/a13a2240-92c9-449c-b526-3574b377cd2)
+![Figure 2](img width="600" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/28765490-9e23-4342-b39f-7960df46b6a5" /)
+
 
 ## 👩‍💻 Author
 - **Pallavi Chaudhary**
